@@ -1,0 +1,6 @@
+.list-view .list-cell{
+    -fx-background-color:  #719192;
+	-fx-alignment: center;
+    -fx-font-size: 20px;
+    -fx-font-family: "Copperplate Gothic Bold";
+}
